@@ -1,0 +1,7 @@
+node_modules/
+www/
+plugins/
+platforms/
+/.monaca/*
+/.monaca/project_info.json
+.DS_Store
